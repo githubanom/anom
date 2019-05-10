@@ -12,6 +12,6 @@ both controlled and autonomous device-to-device interactions, but the attack sur
 billions of IoT devices—most of which are now unprotected or poorly protected—could enable hackers
 and other bad actors to disrupt the services that are expected to control many aspects of our lives in the
 coming years.
-More infomation please visit
 
+More infomation please visit
 https://atonomi.io/
